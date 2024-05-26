@@ -1,4 +1,4 @@
-# Theritex
+<!--# Theritex
 __Forjando Futuros Digitales.__
 
 ### ¿Quienes somos?:
@@ -10,3 +10,6 @@ A finales del verano del año 2022, durante una llamada con un compañero de la 
 
 ### ¿Cómo ganamos dinero?:
 Theritex no tiene como objetivo ganar dinero, <!--Esto puede cambiar en el futuro-->aunque cuenta con ciertos métodos para recaudar pequeñas cantidades de dinero por medio de donaciones. [Donar a Theritex](https://www.buymeacoffee.com/theritex)
+-->
+
+# Perfil en desarrollo, gracias por la visita
