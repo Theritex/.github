@@ -9,7 +9,7 @@ Theritex nació en el verano del año 2022 a manos de Andrés Abadías, mientras
 A finales del verano del año 2022, durante una llamada con un compañero de la infancia conocido comúnmente como SonenXD, surgieron varios nombres hipotéticos para una creación de empresa falsa, fué ahi cuandosurgió el nombre "Theritex", con el paso de los meses, Theritex iba tomando más importancia, hasta que finalmente el día 22/11/2023, dio origen el primer repositorio oficial de Theritex,el cual se ubicaba dentro de un dispositivo USB al cual le iba agregando informaicón diariamente.
 
 ### ¿Cómo ganamos dinero?:
-Theritex no tiene como objetivo ganar dinero, <!--Esto puede cambiar en el futuro-->aunque cuenta con ciertos métodos para recaudar pequeñas cantidades de dinero por medio de donaciones. [Donar a Theritex](https://www.buymeacoffee.com/theritex)
+Theritex no tiene como objetivo ganar dinero, aunque cuenta con ciertos métodos para recaudar pequeñas cantidades de dinero por medio de donaciones. [Donar a Theritex](https://www.buymeacoffee.com/theritex)
 -->
 
 # Perfil en desarrollo, gracias por la visita
