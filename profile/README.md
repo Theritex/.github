@@ -10,7 +10,8 @@ The owner and creator of these repositories is Andres Ruslan Abadias Otal, being
 <details open>
 <summary>• Related Groups |━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</summary>
   <h2>Related Groups:</h2>
-  <a href="[https://www.w3schools.com](https://github.com/Theritex)">Theritex - Grupo Principal</a>
-  
-  [Theritex Models](https://github.com/TheritexModels) - Grupo Instalacion y Premodelos
+ 
+ > [Theritex](https://github.com/Theritex) - Grupo Principal
+
+ > [Theritex Models](https://github.com/TheritexModels) - Grupo Instalacion y Premodelos
 </details
